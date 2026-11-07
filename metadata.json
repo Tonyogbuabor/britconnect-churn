@@ -1,0 +1,6 @@
+{
+  "name": "BritConnect AI Churn Intelligence",
+  "description": "Enterprise UK Telecom Customer Churn Intelligence Platform featuring in-browser ML predictive modelling, customer 360, retention campaigns, explainable risk drivers, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
